@@ -8,7 +8,7 @@ export default function
 
       {
         images.map((img) =>
-          <div className='relative h-80 bg-black'>
+          <div className='relative bg-black'>
 
             <div className=''>
               <div className='relative  '>
